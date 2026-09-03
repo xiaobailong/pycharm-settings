@@ -1,0 +1,55 @@
+Git4Idea|Version Controls
+PythonCore|Languages
+Pythonid|Languages
+com.intellij.code.provenance|null
+com.intellij.dataWrangler.plugin|null
+com.intellij.database|Database
+com.intellij.dev|Platform Development
+com.intellij.groovy.scripting|Languages
+com.intellij.jsonpath|Languages
+com.intellij.mermaid|null
+com.intellij.modules.jcef|Other Tools
+com.intellij.modules.json|Languages
+com.intellij.modules.ultimate|null
+com.intellij.notebooks.core|null
+com.intellij.platform.acp|IDE Settings
+com.intellij.platform.daemon|IDE Settings
+com.intellij.platform.images|null
+com.intellij.properties|Languages
+com.intellij.searcheverywhere.ml|Local AI/ML Tools
+com.intellij.settingsSync|IDE Settings
+com.intellij.zh|IDE Localization
+com.intellij|null
+com.jetbrains.plugins.ini4idea|Languages
+com.jetbrains.pycharm.pro.customization|null
+com.jetbrains.python.pyscript|null
+com.jetbrains.remoteDevServer|Remote Development
+com.jetbrains.remoteDevelopment|Remote Development
+com.jetbrains.sh|Languages
+com.jetbrains.station|Remote Development
+intellij.bookmarks.plugin|null
+intellij.execution.serviceView.plugin|null
+intellij.git.commit.modal|Version Controls
+intellij.grid.core.plugin|null
+intellij.grid.plugin|null
+intellij.java.aetherDependencyResolver.plugin|null
+intellij.jupyter.colab|null
+intellij.jupyter|null
+intellij.libraries.misc.plugin|null
+intellij.navbar.plugin|null
+intellij.platform.ijent.bundledBinaries|Remote Development
+intellij.pycharm.community.customization.shared|null
+intellij.python.dap.plugin|null
+intellij.recentFiles.plugin|null
+intellij.ssh.plugin|null
+intellij.structuralSearch.plugin|null
+intellij.structureView.plugin|null
+intellij.testRunner.plugin|null
+intellij.todo.plugin|null
+intellij.vcs.split.plugin|null
+org.intellij.plugins.markdown|Languages
+org.jetbrains.completion.full.line|Local AI/ML Tools
+org.jetbrains.plugins.localization|Languages
+org.jetbrains.plugins.terminal|Other Tools
+org.jetbrains.plugins.yaml|Languages
+org.toml.lang|Languages

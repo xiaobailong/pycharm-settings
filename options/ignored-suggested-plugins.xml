@@ -1,0 +1,32 @@
+<application>
+  <component name="IgnoredPluginSuggestions">
+    <option name="pluginIds">
+      <list>
+        <option value="idea.plugin.protoeditor" />
+        <option value="com.intellij.spring" />
+        <option value="com.intellij.spring.messaging" />
+        <option value="com.intellij.spring.boot" />
+        <option value="com.intellij.spring.mvc" />
+        <option value="com.intellij.beanValidation" />
+        <option value="com.jetbrains.restWebServices" />
+        <option value="com.intellij.reactivestreams" />
+        <option value="com.intellij.spring.integration" />
+        <option value="com.intellij.spring.cloud" />
+        <option value="com.intellij.bigdatatools" />
+        <option value="com.intellij.cdi" />
+        <option value="com.intellij.javaee.web" />
+        <option value="com.intellij.spring.security" />
+        <option value="com.intellij.kubernetes" />
+        <option value="Docker" />
+        <option value="com.intellij.aqua" />
+        <option value="com.intellij.spring.websocket" />
+        <option value="com.intellij.bigdatatools.rfs" />
+        <option value="com.intellij.bigdatatools.spark" />
+        <option value="aws.toolkit" />
+        <option value="com.intellij.javaee.jpa" />
+        <option value="com.intellij.gwt" />
+        <option value="com.intellij.thymeleaf" />
+      </list>
+    </option>
+  </component>
+</application>

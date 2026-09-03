@@ -1,0 +1,816 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="PythonProject" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseConsolesMigrationStorage">
+    <option name="migrated" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="wf0qrj4ob9nb" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/data_lineage/read_sql_files.py" file-id="89" managing-fs="1788424145818">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="232">
+              <caret line="76" column="44" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"read_sql_files.py","foregroundColor":-3025959,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,-105,1,10,48,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,112,121,116,104,111,110,70,105,108,101,46,115,118,103,18,50,105,99,111,110,115,47,99,111,109,47,106,101,116,98,114,97,105,110,115,47,112,121,116,104,111,110,47,112,97,114,115,101,114,47,101,120,112,117,105,47,112,121,116,104,111,110,46,115,118,103,26,10,80,121,116,104,111,110,67,111,114,101,34,22,105,110,116,101,108,108,105,106,46,112,121,116,104,111,110,46,112,97,114,115,101,114,40,-53,-109,-42,-7,-8,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Python": {
+      "usageCount": 443,
+      "lastUsed": 1788424779794
+    },
+    "JSON": {
+      "usageCount": 47,
+      "lastUsed": 1788417564115
+    },
+    "WebPreview": {
+      "usageCount": 7,
+      "lastUsed": 1787745545951
+    },
+    "Data File": {
+      "usageCount": 2,
+      "lastUsed": 1754461693905
+    },
+    "MyNativeFile": {
+      "usageCount": 2,
+      "lastUsed": 1754463293215
+    },
+    "SQL": {
+      "usageCount": 17,
+      "lastUsed": 1782446657474
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 55,
+      "lastUsed": 1788417980088
+    },
+    "Image": {
+      "usageCount": 1,
+      "lastUsed": 1769075110549
+    },
+    "DIFF": {
+      "usageCount": 123,
+      "lastUsed": 1788417880921
+    },
+    "YAML": {
+      "usageCount": 2,
+      "lastUsed": 1776088528813
+    },
+    "XML": {
+      "usageCount": 5,
+      "lastUsed": 1788417669144
+    },
+    "TOML": {
+      "usageCount": 1,
+      "lastUsed": 1788417969006
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>20250804</find>
+      <find>bigdata.pe.stock.resource.pool.b.strategy.detail_V20250804</find>
+      <find>reportScriptDtos</find>
+      <find>:</find>
+      <find>&quot;,&quot;</find>
+      <find>bigdata.pe.stock.resource.pool.a.main.sql.v4.date</find>
+      <find>700898</find>
+      <find>v_stock_up_down</find>
+      <find>v_dim_trade_date</find>
+      <find>select</find>
+      <find>\&quot;</find>
+      <find>api_list_资源池.xlsx</find>
+      <find>dwd</find>
+      <find>data_frame</find>
+      <find>headers</find>
+      <find>xh_number_p=000875; xh_e_token_p_rdp=bc10aa52-ecbd-4225-9bc3-36922c83bc47; xh_c_token_p=80d9117cb7fe910871cd00afb67612f9; xh_e_token_p=ac234bf3-fcd8-461d-acc1-e65d81b5e0f0</find>
+      <find>sql</find>
+      <find>.sql</find>
+      <find>统计文件不存在</find>
+      <find>listSql</find>
+      <find>output_file = f&quot;{prefix}_params_dep_sql.xlsx&quot;</find>
+      <find>请选择脚本文件目录</find>
+      <find>dep_list.xlsx</find>
+      <find>sql_dep_list.xlsx</find>
+      <find>output_dir</find>
+      <find>detail_dir</find>
+      <find>get_script</find>
+      <find>api_dep_list</find>
+      <find>api_dep_groovy</find>
+      <find>\</find>
+      <find>MANUAL_TABLES</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&quot;,&quot;</replace>
+      <replace>&quot;:&quot;</replace>
+      <replace>&quot;</replace>
+      <replace>api_list.xlsx</replace>
+      <replace>无</replace>
+      <replace>api_dep_list.xlsx</replace>
+      <replace>api__dep_sql.xlsx</replace>
+      <replace>api_dep_groovy</replace>
+      <replace>params_dep_groovy</replace>
+      <replace>/</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\WorkSpace\PythonProject\data_lineage\api_dep\detail</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="directoryName" value="D:\WorkSpace\PythonProject\data_lineage\api_dep\detail" />
+  </component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;D:/WorkSpace/PythonProject/网关/接口列表解析新.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/网关/统计最新访问时间.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/网关/查询最新调用时间.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/core/downloader/base_download.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/models/path_info.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/utils/db_utils.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/utils/file_utils.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/utils/string_utils.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/constant/path_constant.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/constant/element_class.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/Requirement.txt&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/core/proxy.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/utils/driver_utils.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/config/settings.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/utils/decorators.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/utils/http_utils.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/main.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/core/downloader/video_download.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/core/downloader/image_download.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/dy/core/base.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/api_dep_sql_from_file.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/data_lineage/api_table_dep_analyze.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/json2excel/json2excel.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/sqlglot_test.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/listSql/listSql.json&quot;,
+    &quot;D:/WorkSpace/PythonProject/listSql/json_reader_listsql.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/rdp/查询.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/rdp/获取sql脚本.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/data_lineage/api_list/api_list.json&quot;,
+    &quot;D:/WorkSpace/PythonProject/data_lineage/api_dep_sql_from_file.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/data_lineage/api_list/api_list.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/data_lineage/api_dep/api_dep_sql.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/data_lineage/api_dep/params_dep_groovy.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/data_lineage/api_dep/params_dep_sql.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/json2excel/json2excel.json&quot;,
+    &quot;D:/WorkSpace/PythonProject/data_lineage/api_dep/api_dep_groovy.py&quot;,
+    &quot;C:/Users/766698/.continue/config.yaml&quot;,
+    &quot;D:/WorkSpace/PythonProject/test/openai.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/test/openai_dialogue_content.txt&quot;,
+    &quot;D:/WorkSpace/PythonProject/test/openai_test.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/openai/openai_response.txt&quot;,
+    &quot;D:/WorkSpace/PythonProject/openai/openai_test.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/openai/openai_dialogue_content.txt&quot;,
+    &quot;D:/WorkSpace/PythonProject/data_lineage/api_list/resource_api_list.json&quot;,
+    &quot;D:/WorkSpace/PythonProject/data_lineage/api_dep/get_api_detail.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/set_cal.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/data_lineage/offline_table_verification.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/test/tmp.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/test/sr_partition_add.py&quot;,
+    &quot;D:/WorkSpace/PythonProject/data_lineage/read_sql_files.py&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JSON">
+      <summary usageCount="47" lastUsage="1788417564116" />
+    </language>
+    <language id="Python">
+      <summary usageCount="443" lastUsage="1788424779799" />
+    </language>
+    <language id="SQL">
+      <summary usageCount="17" lastUsage="1782446657474" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="55" lastUsage="1788417980088" />
+    </language>
+    <language id="TOML">
+      <summary usageCount="1" lastUsage="1788417969006" />
+    </language>
+    <language id="XML">
+      <summary usageCount="5" lastUsage="1788417669168" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="2" lastUsage="1776088528813" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/PythonProject}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="PythonProject" />
+            <item name="PythonProject" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="PythonProject" />
+              <item name="dir{file://D:/WorkSpace/PythonProject}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.venv" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".venv" />
+                <item name="dir{file://D:/WorkSpace/PythonProject/.venv}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/data_lineage" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="data_lineage" />
+                <item name="dir{file://D:/WorkSpace/PythonProject/data_lineage}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/json2excel" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="json2excel" />
+                <item name="dir{file://D:/WorkSpace/PythonProject/json2excel}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/listSql" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="listSql" />
+                <item name="dir{file://D:/WorkSpace/PythonProject/listSql}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/openai" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="openai" />
+                <item name="dir{file://D:/WorkSpace/PythonProject/openai}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/rdp" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="rdp" />
+                <item name="dir{file://D:/WorkSpace/PythonProject/rdp}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/test" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                <item name="dir{file://D:/WorkSpace/PythonProject/test}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/utils" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="utils" />
+                <item name="dir{file://D:/WorkSpace/PythonProject/utils}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/windows" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="windows" />
+                <item name="dir{file://D:/WorkSpace/PythonProject/windows}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/接口性能分析" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="接口性能分析" />
+                <item name="dir{file://D:/WorkSpace/PythonProject/接口性能分析}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/网关" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="网关" />
+                <item name="dir{file://D:/WorkSpace/PythonProject/网关}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/set_cal.py" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="set_cal.py" />
+                <item name="set_cal.py" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="QueryFileSettings">
+    <option name="projectQueriesDirectory" value="D:\WorkSpace\PythonProject\.idea\queries" />
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Python.read_sql_files" />
+      <element setting="Python.api_dep_sql_from_file" />
+      <element setting="Python.tmp" />
+      <element setting="Python.offline_table_verification" />
+      <element setting="Python.set_cal" />
+      <element setting="Python.api_dep_sql" />
+      <element setting="Python.get_api_detail" />
+      <element setting="Python.api_list" />
+      <element setting="Python.openai_test (1)" />
+      <element setting="Python.openai" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="D:\WorkSpace\PythonProject\" />
+    </option>
+  </component>
+  <component name="TerminalTabsStorage">
+    <option name="tabs">
+      <TerminalSessionPersistedTab name="本地" workingDirectory="D:\WorkSpace\PythonProject" processType="SHELL">
+        <option name="shellCommand">
+          <option value="powershell.exe" />
+        </option>
+        <option name="envVariables">
+          <map />
+        </option>
+      </TerminalSessionPersistedTab>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Backup and Sync History" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20159611" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.23815721" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3386628" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.41793668" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.2896592" />
+      <window_info anchor="bottom" id="Services" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.3253224" />
+      <window_info anchor="bottom" id="Python Console" order="6" show_stripe_button="false" weight="0.3386628" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.3241501" />
+      <window_info anchor="bottom" id="Find" order="8" show_stripe_button="false" weight="0.313469" />
+      <window_info anchor="bottom" id="Debug" order="9" show_stripe_button="false" weight="0.29061896" />
+      <window_info anchor="bottom" id="ExcelEditor" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="ExcelReader" order="11" show_stripe_button="false" weight="0.24510764" />
+      <window_info anchor="bottom" id="PythonProcessOutput" order="12" show_stripe_button="false" weight="0.32994187" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.34941012" />
+      <window_info anchor="right" id="AIAssistant" order="1" show_stripe_button="false" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="2" weight="0.34973958" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <window_info anchor="right" id="JSONPathEvaluate" order="6" weight="0.32993728" />
+      <window_info anchor="right" id="Jupyter Variables" order="7" show_stripe_button="false" side_tool="true" weight="0.32993728" />
+      <window_info anchor="right" id="Trae AI" order="8" weight="0.3501041" />
+      <window_info active="true" anchor="right" id="Continue" order="9" visible="true" weight="0.34944367" />
+      <window_info anchor="right" id="Cline" order="10" weight="0.3501041" />
+      <unified_weights bottom="0.3241501" left="0.20159611" right="0.3501041" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19357367" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.23815721" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3386628" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3386628" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3386628" />
+      <window_info anchor="bottom" id="Services" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.3386628" />
+      <window_info anchor="bottom" id="Python Console" order="6" show_stripe_button="false" weight="0.3386628" />
+      <window_info anchor="bottom" id="Run" order="7" show_stripe_button="false" weight="0.22593236" />
+      <window_info anchor="bottom" id="Find" order="8" show_stripe_button="false" weight="0.313469" />
+      <window_info anchor="bottom" id="Debug" order="9" show_stripe_button="false" weight="0.313469" />
+      <window_info anchor="bottom" id="ExcelEditor" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="ExcelReader" order="11" weight="0.3386628" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.32994792" />
+      <window_info anchor="right" id="AIAssistant" order="1" show_stripe_button="false" weight="0.32994792" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32993728" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <window_info anchor="right" id="JSONPathEvaluate" order="6" weight="0.32993728" />
+      <window_info anchor="right" id="Jupyter Variables" order="7" show_stripe_button="false" side_tool="true" weight="0.32993728" />
+      <unified_weights bottom="0.22593236" left="0.19357367" right="0.32994792" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Project</value>
+      <value>Trae AI</value>
+      <value>Cline</value>
+      <value>Run</value>
+      <value>Python Packages</value>
+      <value>Notifications</value>
+      <value>Problems View</value>
+      <value>Terminal</value>
+      <value>Continue</value>
+      <value>Database</value>
+      <value>Debug</value>
+      <value>ExcelReader</value>
+      <value>Find</value>
+      <value>PythonProcessOutput</value>
+      <value>Jupyter Variables</value>
+      <value>AIAssistant</value>
+      <value>Version Control</value>
+      <value>Python Console</value>
+      <value>JSONPathEvaluate</value>
+      <value>Structure</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1787745610349">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1782272653129" />
+    <state x="414" y="175" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1787745610349" />
+    <state x="534" y="229" key="#更新" timestamp="1787737625006">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="534" y="229" key="#更新/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1787737625006" />
+    <state width="1359" height="229" key="GridCell.Tab.0.bottom" timestamp="1788423994375">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1359" height="199" key="GridCell.Tab.0.bottom/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1782446959430" />
+    <state width="1359" height="229" key="GridCell.Tab.0.bottom/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1788423994375" />
+    <state width="1359" height="199" key="GridCell.Tab.0.bottom/0.0.1440.852@0.0.1440.852" timestamp="1782454644710" />
+    <state width="1359" height="229" key="GridCell.Tab.0.center" timestamp="1788423994374">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1359" height="199" key="GridCell.Tab.0.center/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1782446959430" />
+    <state width="1359" height="229" key="GridCell.Tab.0.center/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1788423994374" />
+    <state width="1359" height="199" key="GridCell.Tab.0.center/0.0.1440.852@0.0.1440.852" timestamp="1782454644710" />
+    <state width="1359" height="229" key="GridCell.Tab.0.left" timestamp="1788423994373">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1359" height="199" key="GridCell.Tab.0.left/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1782446959430" />
+    <state width="1359" height="229" key="GridCell.Tab.0.left/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1788423994373" />
+    <state width="1359" height="199" key="GridCell.Tab.0.left/0.0.1440.852@0.0.1440.852" timestamp="1782454644710" />
+    <state width="1359" height="229" key="GridCell.Tab.0.right" timestamp="1788423994374">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1359" height="199" key="GridCell.Tab.0.right/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1782446959430" />
+    <state width="1359" height="229" key="GridCell.Tab.0.right/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1788423994374" />
+    <state width="1359" height="199" key="GridCell.Tab.0.right/0.0.1440.852@0.0.1440.852" timestamp="1782454644710" />
+    <state x="301" y="155" key="IDE.errors.dialog" timestamp="1787824459435">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="301" y="155" key="IDE.errors.dialog/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1787824459435" />
+    <state x="977" y="620" width="464" height="233" key="ProcessPopupWindow" timestamp="1788424276085">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="977" y="620" width="464" height="233" key="ProcessPopupWindow/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1788424276085" />
+    <state x="164" y="123" key="PythonInterpreterConfigurable.size" timestamp="1788424823708">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="164" y="123" key="PythonInterpreterConfigurable.size/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1788424823708" />
+    <state x="27" y="51" width="900" height="700" key="SettingsEditor" timestamp="1788425224494">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="347" y="112" key="SettingsEditor/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1782273192377" />
+    <state x="27" y="51" width="900" height="700" key="SettingsEditor/0.0.1440.852/-1920.500.1920.1032@0.0.1440.852" timestamp="1788425224494" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="breakpointCondition">
+      <expression>
+        <expression-string>j['folderName']=&quot;股票资源池-首页接口&quot;</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>j['folderName']=&quot;&quot;</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>j['folderName']=</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dy/utils/string_utils.py" />
+    <entry file="file://$PROJECT_DIR$/dy/constant/path_constant.py" />
+    <entry file="file://$PROJECT_DIR$/dy/constant/element_class.py" />
+    <entry file="file://$PROJECT_DIR$/dy/Requirement.txt" />
+    <entry file="file://$PROJECT_DIR$/dy/core/proxy.py" />
+    <entry file="file://$PROJECT_DIR$/dy/utils/driver_utils.py" />
+    <entry file="file://$PROJECT_DIR$/dy/utils/decorators.py" />
+    <entry file="file://$PROJECT_DIR$/dy/config/settings.py" />
+    <entry file="file://$PROJECT_DIR$/dy/utils/http_utils.py" />
+    <entry file="file://$PROJECT_DIR$/dy/main.py" />
+    <entry file="file://$PROJECT_DIR$/dy/core/downloader/video_download.py" />
+    <entry file="file://$PROJECT_DIR$/dy/core/downloader/image_download.py" />
+    <entry file="file://$PROJECT_DIR$/dy/core/base.py" />
+    <entry file="file://$PROJECT_DIR$/test/sqlglot_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="161" column="7" lean-forward="true" selection-start-line="161" selection-start-column="7" selection-end-line="161" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/接口性能分析/rdp接口性能分析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="98" column="27" selection-start-line="98" selection-start-column="27" selection-end-line="98" selection-end-column="27" />
+          <folding>
+            <element signature="e#17#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listSql/json_reader_listsql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listSql/listSql.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86136">
+          <caret line="601" column="1" selection-start-line="601" selection-start-column="1" selection-end-line="601" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rdp/查询.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="708">
+          <caret line="126" column="32" selection-start-line="126" selection-start-column="32" selection-end-line="126" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rdp/获取sql脚本.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2420">
+          <caret line="110" column="96" selection-start-line="110" selection-start-column="96" selection-end-line="110" selection-end-column="96" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_lineage/api_list/api_list.json" />
+    <entry file="file://$PROJECT_DIR$/data_lineage/api_list/select_api_list.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_lineage/api_list/market_ana_api_list.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json2excel/json2excel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/json2excel/json2excel.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="1831" column="1" selection-start-line="1831" selection-start-column="1" selection-end-line="1831" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_lineage/api_dep/params_dep_groovy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2981">
+          <caret line="154" column="98" selection-start-line="154" selection-start-column="98" selection-end-line="154" selection-end-column="98" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_lineage/api_dep/params_dep_sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="159" column="26" lean-forward="true" selection-start-line="159" selection-start-column="26" selection-end-line="159" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_lineage/api_dep/api_dep_groovy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.continue/continue_tutorial.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.continue/config.yaml" />
+    <entry file="file://$PROJECT_DIR$/test/openai_response.txt" />
+    <entry file="file://$PROJECT_DIR$/openai/openai_response.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="17" column="15" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openai/openai_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openai/openai_dialogue_content.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="32" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_lineage/api_dep/detail_resource/bigdata.pe.invest.ana.h5.mock.buy.strategy.first.cover.stock.list">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_lineage/api_dep/get_api_detail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="230" column="36" selection-start-line="230" selection-start-column="36" selection-end-line="230" selection-end-column="36" />
+          <folding>
+            <element signature="e#17#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_lineage/api_list/api_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="139" selection-start-line="139" selection-end-line="139" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_lineage/api_list/resource_api_list.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="70837" column="1" selection-start-line="70837" selection-start-column="1" selection-end-line="70837" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.cline/cline-core-service.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_lineage/api_dep/api_dep_sql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="66" column="21" lean-forward="true" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/set_cal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="90" selection-start-line="1" selection-start-column="90" selection-end-line="1" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_lineage/_test_fields.sql" />
+    <entry file="file://$PROJECT_DIR$/test/sr_partition_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_lineage/offline_table_verification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_lineage/api_table_dep_analyze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="119" column="34" lean-forward="true" selection-start-line="119" selection-start-column="34" selection-end-line="119" selection-end-column="34" />
+          <folding>
+            <element signature="e#18#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_lineage/api_dep_sql_from_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="155" column="26" lean-forward="true" selection-start-line="155" selection-start-column="26" selection-end-line="155" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.vscode/settings.json" />
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyproject.toml" />
+    <entry file="file://$PROJECT_DIR$/Requirement.txt" />
+    <entry file="file://$PROJECT_DIR$/data_lineage/read_sql_files.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="76" column="44" selection-start-line="76" selection-start-column="44" selection-end-line="76" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

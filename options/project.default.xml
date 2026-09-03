@@ -1,0 +1,29 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+      <component name="WindowStateProjectService">
+        <state x="314" y="101" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1774939872920">
+          <screen x="0" y="0" width="1440" height="852" />
+        </state>
+        <state x="314" y="101" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.852/-1920.303.1920.1032" timestamp="1774939872920" />
+        <state x="302" y="134" key="IDE.errors.dialog" timestamp="1775551541948">
+          <screen x="0" y="0" width="1440" height="852" />
+        </state>
+        <state x="302" y="134" key="IDE.errors.dialog/0.0.1440.852/-1920.303.1920.1032" timestamp="1775551541948" />
+        <state x="314" y="55" key="PythonInterpreterConfigurable.size" timestamp="1775551422454">
+          <screen x="0" y="0" width="1440" height="852" />
+        </state>
+        <state x="314" y="55" key="PythonInterpreterConfigurable.size/0.0.1440.852/-1920.303.1920.1032" timestamp="1775551422454" />
+        <state x="223" y="34" key="SettingsEditor" timestamp="1775551452412">
+          <screen x="0" y="0" width="1440" height="852" />
+        </state>
+        <state x="223" y="34" key="SettingsEditor/0.0.1440.852/-1920.303.1920.1032" timestamp="1775551452412" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

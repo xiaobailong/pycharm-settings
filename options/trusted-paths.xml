@@ -1,0 +1,23 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="C:\Users\766698\PyCharmMiscProject" value="true" />
+        <entry key="D:\WorkSpace\Groovy5" value="true" />
+        <entry key="D:\WorkSpace\PythonProject" value="true" />
+        <entry key="D:\WorkSpace\dy" value="true" />
+        <entry key="D:\WorkSpace\dy_all_python" value="true" />
+        <entry key="D:\WorkSpace\dy_detail_python" value="true" />
+        <entry key="D:\WorkSpace\test" value="true" />
+        <entry key="D:\WorkSpace\test\test" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="D:\WorkSpace" />
+      </list>
+    </option>
+  </component>
+</application>

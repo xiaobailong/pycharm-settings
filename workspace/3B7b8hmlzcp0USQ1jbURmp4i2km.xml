@@ -1,0 +1,361 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="dy_all_python" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="313jluvft66h2" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Python": {
+      "usageCount": 2,
+      "lastUsed": 1775619995360
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">{}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="2" lastUsage="1775619995360" />
+    </language>
+  </component>
+  <component name="ProjectRoots">
+    <project-root url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dy_all_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/dy_all_python}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dy_all_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/dy_all_python}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/dy_all_python/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dy_all_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://D:/WorkSpace/dy_all_python}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/dy_all_python/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file://D:/WorkSpace/dy_all_python/main/douyin}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="dy_all_python" />
+            <item name="dy_all_python" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="dy_all_python" />
+              <item name="dir{file://D:/WorkSpace/dy_all_python}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.vscode" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".vscode" />
+                <item name="dir{file://D:/WorkSpace/dy_all_python/.vscode}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/config" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="config" />
+                <item name="dir{file://D:/WorkSpace/dy_all_python/config}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/constant" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="constant" />
+                <item name="dir{file://D:/WorkSpace/dy_all_python/constant}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/core" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="core" />
+                <item name="dir{file://D:/WorkSpace/dy_all_python/core}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/logs" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="true" text="logs" />
+                <item name="dir{file://D:/WorkSpace/dy_all_python/logs}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/main" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                <item name="dir{file://D:/WorkSpace/dy_all_python/main}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/main/douyin" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="douyin" />
+                  <item name="dir{file://D:/WorkSpace/dy_all_python/main/douyin}" type="462c0819:PsiDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/main/douyin/__init__.py" />
+                      </map>
+                    </attributes>
+                    <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="__init__.py" />
+                    <item name="__init__.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/main/douyin/AlbumGrabMain.py" />
+                      </map>
+                    </attributes>
+                    <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="AlbumGrabMain.py" />
+                    <item name="AlbumGrabMain.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/main/douyin/CommonMain.py" />
+                      </map>
+                    </attributes>
+                    <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="CommonMain.py" />
+                    <item name="CommonMain.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/main/douyin/HistroyMain.py" />
+                      </map>
+                    </attributes>
+                    <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="HistroyMain.py" />
+                    <item name="HistroyMain.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/main/douyin/RefreshAlbumGrabMain.py" />
+                      </map>
+                    </attributes>
+                    <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="RefreshAlbumGrabMain.py" />
+                    <item name="RefreshAlbumGrabMain.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/main/douyin/RefreshCookies.py" />
+                      </map>
+                    </attributes>
+                    <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="RefreshCookies.py" />
+                    <item name="RefreshCookies.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/main/douyin/SearchMain.py" />
+                      </map>
+                    </attributes>
+                    <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="SearchMain.py" />
+                    <item name="SearchMain.py" type="ab9368bb:PsiFileNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/main/__init__.py" />
+                    </map>
+                  </attributes>
+                  <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="__init__.py" />
+                  <item name="__init__.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/main/RenameMain.py" />
+                    </map>
+                  </attributes>
+                  <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="RenameMain.py" />
+                  <item name="RenameMain.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/main/Test.py" />
+                    </map>
+                  </attributes>
+                  <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="Test.py" />
+                  <item name="Test.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/main/YoudaoTest.py" />
+                    </map>
+                  </attributes>
+                  <data iconModule="intellij.python.parser" iconPath="icons/com/jetbrains/python/parser/expui/python.svg" iconPlugin="PythonCore" isLeaf="true" text="YoudaoTest.py" />
+                  <item name="YoudaoTest.py" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/models" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="models" />
+                <item name="dir{file://D:/WorkSpace/dy_all_python/models}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/utils" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="utils" />
+                <item name="dir{file://D:/WorkSpace/dy_all_python/utils}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/requirements.txt" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/text.svg" iconPlugin="com.intellij" isLeaf="true" text="requirements.txt" />
+                <item name="requirements.txt" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="外部库" />
+              <item name="外部库" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="临时文件和控制台" />
+              <item name="临时文件和控制台" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="QueryFileSettings">
+    <option name="projectQueriesDirectory" value="D:\WorkSpace\dy_all_python\.idea\queries" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24115199" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.0943728" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="bottom" id="ExcelReader" order="7" />
+      <window_info anchor="bottom" id="PythonProcessOutput" order="8" weight="0.32940447" />
+      <window_info anchor="bottom" id="Run" order="9" show_stripe_button="false" weight="0.2784291" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <window_info anchor="right" id="Jupyter Variables" order="6" side_tool="true" />
+      <window_info anchor="right" id="Trae AI" order="7" />
+      <unified_weights bottom="0.2784291" left="0.24115199" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Python Packages</value>
+      <value>PythonProcessOutput</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1359" height="190" key="GridCell.Tab.0.bottom" timestamp="1775620025470">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1359" height="190" key="GridCell.Tab.0.bottom/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1775620025470" />
+    <state width="1359" height="190" key="GridCell.Tab.0.center" timestamp="1775620025470">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1359" height="190" key="GridCell.Tab.0.center/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1775620025470" />
+    <state width="1359" height="190" key="GridCell.Tab.0.left" timestamp="1775620025470">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1359" height="190" key="GridCell.Tab.0.left/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1775620025470" />
+    <state width="1359" height="190" key="GridCell.Tab.0.right" timestamp="1775620025470">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state width="1359" height="190" key="GridCell.Tab.0.right/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1775620025470" />
+    <state x="314" y="77" key="PythonInterpreterConfigurable.size" timestamp="1773843092221">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="314" y="77" key="PythonInterpreterConfigurable.size/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1773843092221" />
+    <state x="223" y="56" key="SettingsEditor" timestamp="1773843118024">
+      <screen x="0" y="0" width="1440" height="852" />
+    </state>
+    <state x="223" y="56" key="SettingsEditor/0.0.1440.852/-1920.303.1920.1032@0.0.1440.852" timestamp="1773843118024" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/main/YoudaoTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="21" column="56" lean-forward="true" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/douyin/CommonMain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

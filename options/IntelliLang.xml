@@ -1,0 +1,136 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SpEL" injector-id="java">
+      <display-name>Spring @Cacheable and @CacheEvict</display-name>
+      <single-file value="true" />
+      <place><![CDATA[psiMethod().withName("condition").withParameters().definedInClass("org.springframework.cache.annotation.CacheEvict")]]></place>
+      <place><![CDATA[psiMethod().withName("condition").withParameters().definedInClass("org.springframework.cache.annotation.CachePut")]]></place>
+      <place><![CDATA[psiMethod().withName("condition").withParameters().definedInClass("org.springframework.cache.annotation.Cacheable")]]></place>
+      <place><![CDATA[psiMethod().withName("key").withParameters().definedInClass("org.springframework.cache.annotation.CacheEvict")]]></place>
+      <place><![CDATA[psiMethod().withName("key").withParameters().definedInClass("org.springframework.cache.annotation.CachePut")]]></place>
+      <place><![CDATA[psiMethod().withName("key").withParameters().definedInClass("org.springframework.cache.annotation.Cacheable")]]></place>
+      <place><![CDATA[psiMethod().withName("unless").withParameters().definedInClass("org.springframework.cache.annotation.CachePut")]]></place>
+      <place><![CDATA[psiMethod().withName("unless").withParameters().definedInClass("org.springframework.cache.annotation.Cacheable")]]></place>
+    </injection>
+    <injection language="http-header-reference" injector-id="java">
+      <display-name>Spring HttpHeaders (org.springframework.http)</display-name>
+      <single-file value="true" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("header").definedInClass("org.springframework.http.ResponseEntity.HeadersBuilder"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("header").definedInClass("org.springframework.web.servlet.function.ServerResponse.HeadersBuilder"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("set", "add", "addAll", "getFirst", "containsKey", "get", "put", "getFirstDate", "setDate", "setInstant", "setZonedDateTime").definedInClass("org.springframework.http.HttpHeaders"))]]></place>
+    </injection>
+    <injection language="SpEL" injector-id="java">
+      <display-name>Spring Integration/Messaging</display-name>
+      <single-file value="true" />
+      <place><![CDATA[psiMethod().withName("expression").withParameters().definedInClass("org.springframework.messaging.handler.annotation.Payload")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.integration.annotation.Payload")]]></place>
+      <place><![CDATA[psiMethod().withName("value").withParameters().definedInClass("org.springframework.messaging.handler.annotation.Payload")]]></place>
+    </injection>
+    <injection language="SQL" injector-id="java">
+      <display-name>Spring JDBC (org.springframework.jdbc.core.PreparedStatementCreatorFactory)</display-name>
+      <single-file value="true" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("PreparedStatementCreatorFactory").withParameters("java.lang.String").definedInClass("org.springframework.jdbc.core.PreparedStatementCreatorFactory"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("PreparedStatementCreatorFactory").withParameters("java.lang.String", "int[]").definedInClass("org.springframework.jdbc.core.PreparedStatementCreatorFactory"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("PreparedStatementCreatorFactory").withParameters("java.lang.String", "java.util.List").definedInClass("org.springframework.jdbc.core.PreparedStatementCreatorFactory"))]]></place>
+    </injection>
+    <injection language="SQL" injector-id="java">
+      <display-name>Spring JDBC (org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator)</display-name>
+      <single-file value="true" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createCustomException").withParameters("java.lang.String", "java.lang.String", "java.sql.SQLException", "java.lang.Class").definedInClass("org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("customTranslate").withParameters("java.lang.String", "java.lang.String", "java.sql.SQLException").definedInClass("org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("doTranslate").withParameters("java.lang.String", "java.lang.String", "java.sql.SQLException").definedInClass("org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("logTranslation").withParameters("java.lang.String", "java.lang.String", "java.sql.SQLException", "boolean").definedInClass("org.springframework.jdbc.support.SQLErrorCodeSQLExceptionTranslator"))]]></place>
+    </injection>
+    <injection language="SQL" injector-id="python">
+      <display-name>&quot;SQL select/delete/insert/update/create&quot;</display-name>
+      <single-file value="true" />
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*((ALTER|DROP)\\s+(MATERIALIZED\\s+)?VIEW\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*((ALTER|DROP)\\s+INDEX\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*((ALTER|DROP)\\s+VIEW\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*((ALTER|TRUNCATE)\\s+TABLE\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*((BEGIN)|(START TRANSACTION))(\\s[^\n\r]+)?;")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*((CREATE\\s+(OR\\s+(REPLACE|ALTER)\\s+)?((TRANSIENT|TEMP(ORARY)?)\\s+)?|DROP\\s+)(DATABASE|SCHEMA)\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*((CREATE\\s+(OR\\s+REPLACE\\s+)?|ATTACH\\s+|DROP\\s+|RENAME\\s+)DICTIONARY\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*((CREATE|DROP)\\s+DATABASE\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*((CREATE|DROP)\\s+EXTENSION\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*((SYSTEM\\s+)?RELOAD\\s+DICTIONAR(Y|IES)\\s?.*)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(ALTER\\s+EXTENSION\\s.+?\\s(UPDATE|(SET SCHEMA)|ADD|DROP))")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(ALTER\\s+SEQUENCE\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(BEGIN\\s+TRAN(SACTION)?\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(BEGIN\\s.+\\sEND;?$)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(COPY\\s.+?\\s(FROM|TO)\\s.+;$)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(CREATE\\s+((TEMP(ORARY)?|(GLOBAL\\s+TEMPORARY))\\s+)?TABLE\\s.+?\\(.+?\\))")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(CREATE\\s+(OR\\s+(REPLACE|ALTER)\\s+)?((((GLOBAL|LOCAL)\\s+)?(TEMP(ORARY)?|VOLATILE)|TRANSIENT|EXTERNAL|DYNAMIC|ICEBERG|HYBRID)\\s+)?TABLE\\s.+?(\\(.+?\\)|AS\\s+.+))")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(CREATE\\s+(OR\\s+(REPLACE|ALTER)\\s+)?(((FORCE\\s+)?SECURE|FORCE|((GLOBAL|LOCAL)\\s+)?(TEMP(ORARY)?|VOLATILE)|MATERIALIZED)\\s+)?VIEW\\s.+?\\sAS\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(CREATE\\s+(OR\\s+REPLACE\\s+)?FUNCTION\\s.+?\\sRETURNS?\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(CREATE\\s+(OR\\s+REPLACE\\s+)?PROC(EDURE)?\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(CREATE\\s+(OR\\s+REPLACE\\s+)?TRIGGER\\s.+?\\sON\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(CREATE\\s+(OR\\s+REPLACE\\s+)?VIEW\\s.+?\\sAS\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(CREATE\\s+(UNIQUE\\s+)?INDEX\\s.+?\\sON\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(DELETE\\s+(\\*\\s+)?FROM\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(DROP\\s+TABLE\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(INSERT\\s+((OR\\s+)?IGNORE\\s+)?INTO\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(REPLACE\\s+INTO\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(SELECT\\s.+?\\sFROM\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(UPDATE\\s.+?\\sSET\\s.+)")]]></place>
+      <place><![CDATA[pyStringLiteralMatches("^(\\s*((((--|#)[^\n\r]*)|(/\\*([^*])+\\*+/))(\r\n|\n|\r))+)?\\s*(WITH\\s.+?\\sAS\\s.+)")]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="python">
+      <display-name>Playwright</display-name>
+      <single-file value="true" />
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("eval_on_selector", 0, "playwright.async_api._generated.ElementHandle"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("eval_on_selector", 0, "playwright.sync_api._generated.ElementHandle"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("eval_on_selector", 1, "playwright.async_api._generated.Frame"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("eval_on_selector", 1, "playwright.async_api._generated.Page"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("eval_on_selector", 1, "playwright.sync_api._generated.Frame"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("eval_on_selector", 1, "playwright.sync_api._generated.Page"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("eval_on_selector_all", 0, "playwright.async_api._generated.ElementHandle"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("eval_on_selector_all", 0, "playwright.sync_api._generated.ElementHandle"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("eval_on_selector_all", 1, "playwright.async_api._generated.Frame"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("eval_on_selector_all", 1, "playwright.async_api._generated.Page"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("eval_on_selector_all", 1, "playwright.sync_api._generated.Frame"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("eval_on_selector_all", 1, "playwright.sync_api._generated.Page"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate", 0, "playwright.async_api._generated.Frame"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate", 0, "playwright.async_api._generated.JSHandle"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate", 0, "playwright.async_api._generated.Locator"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate", 0, "playwright.async_api._generated.Page"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate", 0, "playwright.async_api._generated.Worker"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate", 0, "playwright.sync_api._generated.Frame"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate", 0, "playwright.sync_api._generated.JSHandle"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate", 0, "playwright.sync_api._generated.Locator"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate", 0, "playwright.sync_api._generated.Page"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate", 0, "playwright.sync_api._generated.Worker"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate_all", 0, "playwright.async_api._generated.Locator"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate_all", 0, "playwright.sync_api._generated.Locator"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate_handle", 0, "playwright.async_api._generated.Frame"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate_handle", 0, "playwright.async_api._generated.JSHandle"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate_handle", 0, "playwright.async_api._generated.Locator"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate_handle", 0, "playwright.async_api._generated.Page"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate_handle", 0, "playwright.async_api._generated.Worker"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate_handle", 0, "playwright.sync_api._generated.Frame"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate_handle", 0, "playwright.sync_api._generated.JSHandle"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate_handle", 0, "playwright.sync_api._generated.Locator"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate_handle", 0, "playwright.sync_api._generated.Page"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("evaluate_handle", 0, "playwright.sync_api._generated.Worker"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("wait_for_function", 0, "playwright.async_api._generated.Frame"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("wait_for_function", 0, "playwright.async_api._generated.Page"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("wait_for_function", 0, "playwright.sync_api._generated.Frame"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("wait_for_function", 0, "playwright.sync_api._generated.Page"))]]></place>
+    </injection>
+    <injection language="SQLite" injector-id="python">
+      <display-name>sqlite3</display-name>
+      <single-file value="true" />
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("execute", 0, "_sqlite3.Connection"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("execute", 0, "_sqlite3.Cursor"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("executemany", 0, "_sqlite3.Connection"))]]></place>
+      <place><![CDATA[pyLiteralExpression().and(pyMethodArgument("executemany", 0, "_sqlite3.Cursor"))]]></place>
+    </injection>
+    <injection language="SpEL" injector-id="xml">
+      <display-name>SpEL for Spring Cache</display-name>
+      <single-file value="true" />
+      <place><![CDATA[xmlAttribute().withLocalName("condition").withParent(xmlTag().withNamespace(string().equalTo("http://www.springframework.org/schema/cache")))]]></place>
+      <place><![CDATA[xmlAttribute().withLocalName("key").withParent(xmlTag().withNamespace(string().equalTo("http://www.springframework.org/schema/cache")))]]></place>
+      <place><![CDATA[xmlAttribute().withLocalName("unless").withParent(xmlTag().withNamespace(string().equalTo("http://www.springframework.org/schema/cache")))]]></place>
+    </injection>
+  </component>
+</application>

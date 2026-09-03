@@ -1,0 +1,161 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="python31309" />
+      <type value="Python SDK" />
+      <version value="Python 3.13.11" />
+      <homePath value="D:/Tools/DevTools/Python/miniconda3/envs/python31309/python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python31309/DLLs" type="simple" />
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python31309/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python313/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python313/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python313/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python313/site-packages/pythonwin" type="simple" />
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python31309/Lib/site-packages" type="simple" />
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python31309/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python31309/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python31309/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2026.2/python_stubs/-49571159" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tqdm" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/psutil" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzdata" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pywin32" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/colorama" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/greenlet" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Pygments" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/decorator" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/Send2Trash" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/python-dateutil" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WORKING_DIRECTORY="D:\WorkSpace\PythonProject" SDK_UUID="e602a8c6-a4db-4c89-b1bc-7b0813009f78">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;python31309&quot;,&quot;userReadableName&quot;:&quot;python31309&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Tools\\DevTools\\Python\\miniconda3\\condabin\\conda.bat&quot;}}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="python309" />
+      <type value="Python SDK" />
+      <version value="Python 3.9.18" />
+      <homePath value="D:/Tools/DevTools/Python/miniconda3/envs/python309/python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python309/DLLs" type="simple" />
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python309/Lib" type="simple" />
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python309/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2026.2/python_stubs/1928218315" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzdata" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzdata" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzdata" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzdata" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzdata" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WORKING_DIRECTORY="D:\WorkSpace\PythonProject" SDK_UUID="f388141d-7cb9-4406-bcf9-67effd056f69">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;python309&quot;,&quot;userReadableName&quot;:&quot;python309&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Tools\\DevTools\\Python\\miniconda3\\condabin\\conda.bat&quot;}}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="python27" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.18" />
+      <homePath value="D:/Tools/DevTools/Python/miniconda3/envs/python27/python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python27/DLLs" type="simple" />
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python27/Lib" type="simple" />
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python27/Lib/lib-tk" type="simple" />
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python27/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2026.2/python_stubs/-576037198" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib/@python2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyasn1" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/protobuf" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mysqlclient" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/six" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/cffi" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/pyasn1" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/protobuf" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/requests" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/mysqlclient" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WORKING_DIRECTORY="D:\WorkSpace\PythonProject" SDK_UUID="416f4f6f-d23e-47b6-8f37-ad865ade21f0">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;python27&quot;,&quot;userReadableName&quot;:&quot;python27&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Tools\\DevTools\\Python\\miniconda3\\condabin\\conda.bat&quot;}}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="python314" />
+      <type value="Python SDK" />
+      <version value="Python 3.14.3" />
+      <homePath value="D:/Tools/DevTools/Python/miniconda3/envs/python314/python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python314/DLLs" type="simple" />
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python314/Lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python314/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python314/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python314/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python314/site-packages/pythonwin" type="simple" />
+            <root url="file://D:/Tools/DevTools/Python/miniconda3/envs/python314/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Local/JetBrains/PyCharm2026.2/python_stubs/989401713" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/zstd" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzdata" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/zstd" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzdata" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/zstd" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzdata" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/zstd" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/tzdata" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stubs/setuptools" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional WORKING_DIRECTORY="D:\WorkSpace\PythonProject" SDK_UUID="96867a05-de9c-4570-af70-f5c0da1e0a42">
+        <setting name="FLAVOR_ID" value="Conda" />
+        <setting name="FLAVOR_DATA" value="{&quot;env&quot;:{&quot;envIdentity&quot;:{&quot;sealedClassChildId&quot;:&quot;NamedEnv&quot;,&quot;data&quot;:{&quot;envName&quot;:&quot;python314&quot;,&quot;userReadableName&quot;:&quot;python314&quot;}},&quot;fullCondaPathOnTarget&quot;:&quot;D:\\Tools\\DevTools\\Python\\miniconda3\\condabin\\conda.bat&quot;}}" />
+      </additional>
+    </jdk>
+  </component>
+</application>

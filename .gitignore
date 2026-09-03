@@ -1,0 +1,13 @@
+# 排除 Settings Sync 的缓存目录
+settingsSync/
+
+# 排除系统生成的临时/缓存目录
+system/
+cache/
+tmp/
+
+# 排除日志
+*.log
+
+# 排除插件目录
+plugins/

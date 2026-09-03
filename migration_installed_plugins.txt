@@ -1,0 +1,14 @@
+com.jetbrains.sh
+Subversion
+intellij.python.dap.plugin
+org.jetbrains.plugins.yaml
+PerforceDirectPlugin
+com.intellij.plugins.eclipsekeymap
+com.intellij.mcpServer
+com.intellij.properties
+intellij.jupyter
+hg4idea
+org.jetbrains.plugins.terminal
+org.jetbrains.completion.full.line
+com.intellij.settingsSync
+com.intellij.notebooks.core

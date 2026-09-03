@@ -1,0 +1,7 @@
+<application>
+  <component name="com.github.continuedev.continueintellijextension.services.ContinueExtensionSettings">
+    <option name="remoteConfigServerUrl" value="https://api.ofox.ai/v1" />
+    <option name="shownWelcomeDialog" value="true" />
+    <option name="userToken" value="sk-of-uMHGXXPrOLNfbySzqQsNXmUlyoohkQpYjDEMRftWfSnigxTRuSniyGXNbGjFodAH" />
+  </component>
+</application>

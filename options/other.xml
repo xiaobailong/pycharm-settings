@@ -1,0 +1,124 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id>Dependencies</id>
+          </State>
+          <State>
+            <id>Oracle</id>
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>User defined</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "Data.Loaders.Plugin.Ad.Shown": "0",
+    "IdeErrorsDialog.LAST_OK_ACTION": "REPORT_AND_CLEAR_ALL",
+    "InstalledPluginsSearchHistory": "packages\nTr\nTri\nTric\ntrice",
+    "LANGUAGE_DETECTOR_ASKED_BEFORE": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "PY-253.31033.139",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "PY-253.31033.139",
+    "MarketplacePluginsSearchHistory": "cline\ncli\nai\n豆包\ndou'bao",
+    "Notification.DisplayName-DoNotAsk-CythonDebuggerExtensionAvailable": "Python debugger extension available",
+    "Notification.DoNotAsk-CythonDebuggerExtensionAvailable": "true",
+    "PYCHARM_CONDA_FULL_LOCAL_PATH": "D:\\Tools\\DevTools\\Python\\miniconda3\\condabin\\conda.bat",
+    "PluginConfigurable.selectionTab": "1",
+    "ProjectStructure.SecondLevelElements": "0.40875",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "PyPackageSearchTextField.history": "openai\nxmind\nopenpyxl\nPillow\nselenium",
+    "RunOnceActivity.AIPromoWindowAdvisorPreheat": "true",
+    "RunOnceActivity.TerminalFontSettingsService.fixStoredNonMonospacedFonts": "true",
+    "RunOnceActivity.TerminalOptionsProvider.TerminalEngineMigration.2026.1": "true",
+    "RunOnceActivity.TerminalOptionsProvider.appTitleMigration.2026.1.1": "true",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.deprecation.notification": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "SettingsSearchHistory": "virtualenv\nPython Packages\npackages\nRegistry\nconda",
+    "USER_CLOSED_ANALYZING_BANNER_KEY": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "bidi.content.notification.disable": "true",
+    "cef_version_last_used": "144",
+    "codeverse.saas.region": "cn",
+    "database.notebook.setting.id": "e798fb8b-e660-4b7e-91b0-1e2eb90cd57c",
+    "disable.forced.soft.wraps.notification": "true",
+    "ea.auto.report.offered": "true",
+    "ea.auto.report.offered.1.0": "true",
+    "enter_selection_count": "5",
+    "evlsprt3.251": "7",
+    "evlsprt3.252": "4",
+    "evlsprt3.253": "6",
+    "evlsprt3.261": "6",
+    "evlsprt3.262": "6",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "261.27258.51",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "10",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "full.line.logs.sending.asked": "true",
+    "got.it.tooltip.Plugins Auto-Update": "1",
+    "got.it.tooltip.database.cloud.explorer.promo": "1",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "got.it.tooltip.settings.sync.in.settings": "1",
+    "ide.islands.ab2": "true",
+    "ide.islands.ab3": "true",
+    "ide.islands.new.darcula": "true",
+    "idea.islands.enabled": "true",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "plugins.preselection.path": "C:/Users/766698/Downloads",
+    "previousColorScheme": "_@user_Dark",
+    "pycharm.welcome.free.mode.override": "true",
+    "pycharm.welcome.overridden": "true",
+    "registry.to.advanced.settings.migration.build": "PY-262.9437.214",
+    "settings.new.badge.shown.count.configurable.group.editor": "3",
+    "settings.new.badge.shown.count.editor.preferences.appearance": "2",
+    "terminal.gen.one.option.visible": "false",
+    "trial.state.last.availability.check": "0",
+    "trial.state.last.state": "EXPIRED",
+    "ts.lib.d.ts.version": "5.6.3",
+    "whats.new.last.shown.version": "2026-2.1-9437-15f37d6ae0c4b808c53bc948bba0454ce9781396"
+  },
+  "keyToStringList": {
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector"
+    ]
+  }
+}]]></component>
+  <component name="ReworkedTerminalUsage">{
+  &quot;enterKeyPressedTimes&quot;: 25,
+  &quot;firstIdeSessionMoment&quot;: {
+    &quot;type&quot;: &quot;org.jetbrains.plugins.terminal.TerminalFirstIdeSessionMoment.BeforeTrackingStarted&quot;
+  }
+}</component>
+</application>

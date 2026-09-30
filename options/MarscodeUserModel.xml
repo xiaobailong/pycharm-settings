@@ -2,7 +2,7 @@
   <component name="com.codeverse.userSettings.MarsCodeUserModelSettings">
     <option name="userModelConfigs">
       <map>
-        <entry key="3446327680700282" value="{&quot;hasShownGuide&quot;:false,&quot;shouldShowChatGuidance&quot;:true,&quot;hasShowBuilderGuidance&quot;:true,&quot;chatV2SelectedModel&quot;:&quot;Doubao-Seed-2.0-Code&quot;,&quot;maxModeEnabled&quot;:false,&quot;selectedAgentId&quot;:&quot;builder&quot;,&quot;hasShownSeatDiscountPopup&quot;:false}" />
+        <entry key="3446327680700282" value="{&quot;hasShownGuide&quot;:false,&quot;shouldShowChatGuidance&quot;:true,&quot;hasShowBuilderGuidance&quot;:true,&quot;chatV2SelectedModel&quot;:&quot;DeepSeek-V4-Pro&quot;,&quot;maxModeEnabled&quot;:false,&quot;selectedAgentId&quot;:&quot;builder&quot;,&quot;hasShownSeatDiscountPopup&quot;:false}" />
       </map>
     </option>
   </component>

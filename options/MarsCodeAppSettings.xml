@@ -3,6 +3,7 @@
     <option name="aiAutoConfirmCommandDenyList" value="[&quot;rm&quot;,&quot;kill&quot;,&quot;chmod&quot;,&quot;del&quot;,&quot;erase&quot;,&quot;rd&quot;,&quot;rmdir&quot;,&quot;Remove-Item&quot;]" />
     <option name="aiAutoRunDialogShown" value="true" />
     <option name="aiConfirmMode" value="true" />
+    <option name="commandAllowList" value="[&quot;python&quot;,&quot;echo&quot;]" />
     <option name="localeOverride" value="cn" />
     <option name="remoteConfigSettings" value="{&quot;totalDebounce&quot;:35,&quot;contextFetchDebounce&quot;:15}" />
   </component>
